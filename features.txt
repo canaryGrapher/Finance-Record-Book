@@ -1,0 +1,33 @@
+Completed Features:
+1) Record Transaction
+    A) Record a single transaction
+    B) Record multiple transaction at once
+
+2) Calculate Budget
+    A) Calculate Budget
+
+3) View Transactions
+    A) View all Transactions
+    B) View last n Transactions
+    C) View Transactions between a date range
+
+4) Export ledger
+    A) JSON format
+    B) TXT format
+    C) CSV format
+    D) XLXS format
+
+----------------------------------------------------
+
+Incomplete Features:
+1) Record Transaction
+    A) -nil-
+
+2) Calculate Budget
+    A) -nil-
+
+3) View Transactions
+    A) -nil-
+
+4) Export ledger
+    A) -nil-

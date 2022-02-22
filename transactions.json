@@ -1,0 +1,19 @@
+{
+    "transactions": [
+        {
+            "amount": 1234.0,
+            "date": "12/42/12",
+            "description": "party"
+        },
+        {
+            "amount": 523.0,
+            "date": "12/02/22",
+            "description": "Aunty"
+        },
+        {
+            "amount": 9090.0,
+            "date": "12/23/12",
+            "description": "tyson"
+        }
+    ]
+}
